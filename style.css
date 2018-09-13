@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
+ol, ul {
+	list-style: none;}
+
+body { overflow-x: hidden; margin: 0; padding: 0; border: 0;}
+
+.logo{ width:100%; height:165px; background-color: #FFF; background: url(logo.png) no-repeat center top ;}
+.titlebg{ width:100%; height:808px; background: url(01.jpg) no-repeat center top ;}
+.subbg{  width:100%; height:551px; background: url(02.jpg) no-repeat center top ;}
+.content{ text-align:center;background-color:#FFF;width:100%; padding-bottom: 30px;}
+.font1_txt{ text-align:left;background-color:#FFF;width:850px;margin:0 auto;line-height: 2.5em;padding: 5px;font-family: ‘cwTeXYen’, sans-serif;}
+.font2_txt{ text-align:left;background-color:#FFF;width:850px;margin:0 auto;line-height: 1.8em; font-size: 0.8em;padding: 5px;}
+.font1{font-size:1.5em;text-indent:-1em;font-weight:800}
+.font2{text-indent:-1em;}
+
